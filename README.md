@@ -5,11 +5,12 @@
 - Web app development for Biomass assessment, forest fire, flood
 zonation, commodity-based production, tree species classification,
 and European Union Deforestation Regulations (EUDR) based analysis for
-cultivation and forest protection
+cultivation and forest protection.
+- Computer vision based algorithm to map and measure individual tree canopy.
 - Machine Learning based application for urban tree species
 classification. 
 - Prospecting Tool for carbon projects.
-- GIS and Carbon work for REDD+ and ARR carbon projects
+- GIS and Carbon work for REDD+ and ARR carbon projects.
 - Forest fire severity & diversity change analysis using remote
 sensing images.
 ## Cartography and Spatial Data Analysis Demos
