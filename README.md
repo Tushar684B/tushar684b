@@ -4,7 +4,7 @@
 ## Projects
 - Web app development for Biomass assessment, forest fire, flood
 zonation, commodity-based production, tree species classification,
-and European Union Deforestation Regulations (EUDR) for
+and European Union Deforestation Regulations (EUDR) based analysis for
 cultivation and forest protection
 - Machine Learning based application for urban tree species
 classification. 
