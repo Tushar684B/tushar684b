@@ -1,6 +1,6 @@
 
 ## Introduction
-👋 Hi, I'm Tushar Bharadwaj, a Remote Sensing and GIS Specialist with over 4 years of experience across academia, research, and industry. My expertise lies in geospatial data analysis and carbon project assessments, particularly for REDD+ and ARR initiatives. I'm proficient in using tools like Google Earth Engine, QGIS, and ArcGIS, and I have a strong background in Python, JavaScript, and MS Office. I'm passionate about leveraging geospatial technologies to drive climate action and sustainable development. Let's connect and explore how we can collaborate on innovative solutions!
+👋 Hi, I'm Tushar Bharadwaj, a Remote Sensing and GIS Specialist with over 5 years of experience across academia, research, and industry. My expertise lies in geospatial data analysis and carbon project assessments, particularly for REDD+ and ARR initiatives. I'm proficient in using tools like Google Earth Engine, QGIS, and ArcGIS, and I have a strong background in Python, JavaScript, and MS Office. I'm passionate about leveraging geospatial technologies to drive climate action and sustainable development. Let's connect and explore how we can collaborate on innovative solutions!
 ## Projects
 - Web app development for Biomass assessment, forest fire, flood
 zonation, commodity-based production, tree species classification,
